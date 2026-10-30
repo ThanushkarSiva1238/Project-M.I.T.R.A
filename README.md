@@ -1,5 +1,5 @@
 # MITRA — Your Personal Psychology Learning Companion
-
+<img width="1600" height="789" alt="WhatsApp Image 2026-10-26 at 15 16 26" src="https://github.com/user-attachments/assets/146b5525-d012-4963-8a46-7e80fa9fe58d" />
 **M**emory, **I**ntelligence, **T**utoring & **R**evision **A**ssistant — *Understand More. Remember Better. Learn with Confidence.*
 
 A local-first web app for a psychology student who finds English terminology hard and wants Tamil explanations. Everything the student saves lives in a SQLite file on her own computer. Online AI is optional and only used when she presses a button.
