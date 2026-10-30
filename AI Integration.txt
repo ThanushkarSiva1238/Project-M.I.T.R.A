@@ -1,0 +1,7 @@
+Free Gemini API Key:
+
+Browse: https://aistudio.google.com/app/api-keys
+
+Provider: Other (OpenAI-compatible)
+Model: gemini-3.1-flash-lite
+Base URL (optional): https://generativelanguage.googleapis.com/v1beta/openai
